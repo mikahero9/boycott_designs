@@ -1,3 +1,3 @@
 # Ready A4 Designs For Boycott
 
-You can printed them as stickers and share them with your friends. 
+You can print them as stickers and share them with your friends. Feel free to pull request and add your own designs and/or translations in your own langauge.

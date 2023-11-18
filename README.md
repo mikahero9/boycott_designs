@@ -4,6 +4,8 @@ You can print them as stickers and share them with your friends. Feel free to pu
 
 ## For editable PSDs, click this link <a href ="https://mega.nz/folder/F3wUTSaQ#2MwCXDtf9_NbiDSrL4gNcA"> Editable PSDs LINK MEGA </a>
 
+
+</br>
 <img src="pngs/cleaners_1_tr.png" width = "400px" />
 <img src="pngs/food_1_tr.png" width = "400px" />
 <img src="pngs/drinks_1_tr.png" width = "400px" />
